@@ -1,4 +1,4 @@
-from sklearn.datasets import load_train_set_label
+from sklearn.datasets import load_train_set_label 
 from sklearn.neighbors import KNeighborsClassifier
 import streamlit as st
 import numpy as np
